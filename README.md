@@ -1,4 +1,5 @@
-<html dir="ltr" lang="ja"
+<html dir="ltr" lang="ja">
+
 <head>
     <meta charset="utf-8" />
     <link rel="stylesheet" href="styles.css" />
